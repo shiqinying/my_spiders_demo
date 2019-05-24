@@ -1,0 +1,6 @@
+href,image,title,view,name,category,
+<article.*?href="(.*?)".*?src="(.*?)".*?<h2.*?>.*?>(.*?)</a>.*?</i>(.*?)</span>.*?</i>.*?>(.*?)</a>.*?</i>.*?>(.*?)</a>
+
+https://search.jd.com/Search?keyword=%E7%AC%94%E8%AE%B0%E6%9C%AC&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&wq=%E7%AC%94%E8%AE%B0%E6%9C%AC&page=1&s=1&click=0
+https://search.jd.com/Search?keyword=%E7%AC%94%E8%AE%B0%E6%9C%AC&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&wq=%E7%AC%94%E8%AE%B0%E6%9C%AC&page=3&s=56&click=0
+https://search.jd.com/Search?keyword=%E7%AC%94%E8%AE%B0%E6%9C%AC&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&wq=%E7%AC%94%E8%AE%B0%E6%9C%AC&page=5&s=107&click=0
